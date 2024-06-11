@@ -1,2 +1,2 @@
 #!/bin/bash
-rm hello 2>/dev/null
+chown betty hello
