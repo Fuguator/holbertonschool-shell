@@ -1,2 +1,2 @@
-#!/bai/bash
+#!/bin/bash
 echo /etc/passwd
