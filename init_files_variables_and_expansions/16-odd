@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -lne 'print if $. % 2 == 1'
+paste - - | cut -f1
